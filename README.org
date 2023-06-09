@@ -1,0 +1,9 @@
+* periods
+
+Common Lisp library for manipulating date/time objects at a higher level
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/jwiegley/periods.git |
+| commit  | 3ada68b                                     |
+| systems | periods                                     |
+|---------+---------------------------------------------|
